@@ -5,6 +5,8 @@ go 1.22.10
 require (
 	github.com/aliyun/alibabacloud-oss-go-sdk-v2 v1.4.1
 	github.com/aliyun/aliyun-log-go-sdk v0.1.117
+	github.com/go-kit/kit v0.12.0
+	github.com/gogo/protobuf v1.3.2
 	github.com/pkg/errors v0.9.1
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.9.1
 	github.com/volcengine/volc-sdk-golang v1.0.240
@@ -17,10 +19,8 @@ require (
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dennwc/varint v1.0.0 // indirect
-	github.com/go-kit/kit v0.12.0 // indirect
 	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
-	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/grafana/regexp v0.0.0-20221005093135-b4c2bcb0a4b6 // indirect
