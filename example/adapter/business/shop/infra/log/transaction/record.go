@@ -3,7 +3,7 @@ package transaction
 import (
 	"time"
 
-	"github.com/biandoucheng/go-cloud-adapter/example/adapter/business/shop/model"
+	"github.com/eeeeeeeee-ccc/go-adapter/example/adapter/business/shop/model"
 )
 
 func WriteToLog(transaction *model.Transaction) error {

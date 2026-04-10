@@ -11,14 +11,14 @@ import (
 	"testing"
 	"time"
 
-	cstorage "github.com/biandoucheng/go-cloud-adapter/cloud/storage"
-	volc "github.com/biandoucheng/go-cloud-adapter/cloud/storage/volc"
+	cstorage "github.com/eeeeeeeee-ccc/go-adapter/cloud/storage"
+	volc "github.com/eeeeeeeee-ccc/go-adapter/cloud/storage/volc"
 )
 
 // 测试用的火山引擎存储桶名称和对象基础目录
 var (
 	VolcBucketName    = "ad-private-bucket"
-	VolcObjectBaseDir = "github.com/biandoucheng/go-cloud-adapter/unit-test"
+	VolcObjectBaseDir = "github.com/eeeeeeeee-ccc/go-adapter/unit-test"
 )
 
 func NewVolcClient() (cstorage.Client, error) {

@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/biandoucheng/go-cloud-adapter/example/adapter/business/shop/model"
+	"github.com/eeeeeeeee-ccc/go-adapter/example/adapter/business/shop/model"
 )
 
 func ReadTransactionRecord(ymdh string) ([]model.Transaction, error) {

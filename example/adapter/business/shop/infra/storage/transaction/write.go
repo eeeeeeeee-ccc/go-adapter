@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/biandoucheng/go-cloud-adapter/example/adapter/business/shop/model"
+	"github.com/eeeeeeeee-ccc/go-adapter/example/adapter/business/shop/model"
 )
 
 const (

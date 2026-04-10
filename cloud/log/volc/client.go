@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/biandoucheng/go-cloud-adapter/cloud"
-	clog "github.com/biandoucheng/go-cloud-adapter/cloud/log"
-	"github.com/biandoucheng/go-cloud-adapter/pkg/util"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud"
+	clog "github.com/eeeeeeeee-ccc/go-adapter/cloud/log"
+	"github.com/eeeeeeeee-ccc/go-adapter/pkg/util"
 
 	"errors"
 

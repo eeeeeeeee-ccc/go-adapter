@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/biandoucheng/go-cloud-adapter/cloud"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud"
 
 	consumerLibrary "github.com/volcengine/volc-sdk-golang/service/tls/consumer"
 	"github.com/volcengine/volc-sdk-golang/service/tls/pb"

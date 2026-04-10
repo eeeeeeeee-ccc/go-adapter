@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/biandoucheng/go-cloud-adapter/cloud"
-	"github.com/biandoucheng/go-cloud-adapter/cloud/storage"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud/storage"
 
 	"github.com/aliyun/alibabacloud-oss-go-sdk-v2/oss"
 )

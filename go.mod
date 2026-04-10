@@ -1,4 +1,4 @@
-module github.com/biandoucheng/go-cloud-adapter
+module github.com/eeeeeeeee-ccc/go-adapter
 
 go 1.22.10
 

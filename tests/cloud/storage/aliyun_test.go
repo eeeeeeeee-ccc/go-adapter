@@ -11,14 +11,14 @@ import (
 	"testing"
 	"time"
 
-	cstorage "github.com/biandoucheng/go-cloud-adapter/cloud/storage"
-	aliyun "github.com/biandoucheng/go-cloud-adapter/cloud/storage/aliyun"
+	cstorage "github.com/eeeeeeeee-ccc/go-adapter/cloud/storage"
+	aliyun "github.com/eeeeeeeee-ccc/go-adapter/cloud/storage/aliyun"
 )
 
 // 测试用的阿里云存储桶名称和对象基础目录
 var (
 	AliyunBucketName    = "private-material-center"
-	AliyunObjectBaseDir = "github.com/biandoucheng/go-cloud-adapter/unit-test"
+	AliyunObjectBaseDir = "github.com/eeeeeeeee-ccc/go-adapter/unit-test"
 )
 
 func NewAliyunClient() (cstorage.Client, error) {

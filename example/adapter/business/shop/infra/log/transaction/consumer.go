@@ -5,10 +5,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/biandoucheng/go-cloud-adapter/cloud"
-	clog "github.com/biandoucheng/go-cloud-adapter/cloud/log"
-	"github.com/biandoucheng/go-cloud-adapter/cloud/log/aliyun"
-	"github.com/biandoucheng/go-cloud-adapter/cloud/log/volc"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud"
+	clog "github.com/eeeeeeeee-ccc/go-adapter/cloud/log"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud/log/aliyun"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud/log/volc"
 
 	aliyunslsconsumer "github.com/aliyun/aliyun-log-go-sdk/consumer"
 	volctlsconsumer "github.com/volcengine/volc-sdk-golang/service/tls/consumer"

@@ -3,8 +3,8 @@ package aliyun
 import (
 	"errors"
 
-	"github.com/biandoucheng/go-cloud-adapter/cloud"
-	clog "github.com/biandoucheng/go-cloud-adapter/cloud/log"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud"
+	clog "github.com/eeeeeeeee-ccc/go-adapter/cloud/log"
 
 	sls "github.com/aliyun/aliyun-log-go-sdk"
 )

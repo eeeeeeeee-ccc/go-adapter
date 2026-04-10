@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/biandoucheng/go-cloud-adapter/cloud"
-	cstorage "github.com/biandoucheng/go-cloud-adapter/cloud/storage"
-	aliyun "github.com/biandoucheng/go-cloud-adapter/cloud/storage/aliyun"
-	volc "github.com/biandoucheng/go-cloud-adapter/cloud/storage/volc"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud"
+	cstorage "github.com/eeeeeeeee-ccc/go-adapter/cloud/storage"
+	aliyun "github.com/eeeeeeeee-ccc/go-adapter/cloud/storage/aliyun"
+	volc "github.com/eeeeeeeee-ccc/go-adapter/cloud/storage/volc"
 )
 
 var (

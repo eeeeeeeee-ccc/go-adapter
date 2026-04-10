@@ -4,7 +4,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/biandoucheng/go-cloud-adapter/example/adapter/business/shop/model"
+	"github.com/eeeeeeeee-ccc/go-adapter/example/adapter/business/shop/model"
 )
 
 func ReadTransactionLogs(ymd int, hour int, st int64, et int64) ([]model.Transaction, error) {

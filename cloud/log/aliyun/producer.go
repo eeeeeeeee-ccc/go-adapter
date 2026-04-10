@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/biandoucheng/go-cloud-adapter/cloud"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud"
 
 	sls "github.com/aliyun/aliyun-log-go-sdk"
 	"github.com/aliyun/aliyun-log-go-sdk/producer"

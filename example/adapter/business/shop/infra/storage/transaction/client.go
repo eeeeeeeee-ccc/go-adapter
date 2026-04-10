@@ -5,10 +5,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/biandoucheng/go-cloud-adapter/cloud"
-	cstorage "github.com/biandoucheng/go-cloud-adapter/cloud/storage"
-	"github.com/biandoucheng/go-cloud-adapter/cloud/storage/aliyun"
-	"github.com/biandoucheng/go-cloud-adapter/cloud/storage/volc"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud"
+	cstorage "github.com/eeeeeeeee-ccc/go-adapter/cloud/storage"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud/storage/aliyun"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud/storage/volc"
 )
 
 var Client cstorage.Client

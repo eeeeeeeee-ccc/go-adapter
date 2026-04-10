@@ -71,7 +71,7 @@
 
 2. **从githua下载依赖库使用**
 ```
-go get github.com/biandoucheng/go-cloud-adapter
+go get github.com/eeeeeeeee-ccc/go-adapter
 ```
 
 ## 注意事项

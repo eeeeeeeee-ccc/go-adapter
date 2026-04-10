@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	clog "github.com/biandoucheng/go-cloud-adapter/cloud/log"
-	logvolc "github.com/biandoucheng/go-cloud-adapter/cloud/log/volc"
+	clog "github.com/eeeeeeeee-ccc/go-adapter/cloud/log"
+	logvolc "github.com/eeeeeeeee-ccc/go-adapter/cloud/log/volc"
 
 	consumerlib "github.com/volcengine/volc-sdk-golang/service/tls/consumer"
 	"github.com/volcengine/volc-sdk-golang/service/tls/pb"

@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	clog "github.com/biandoucheng/go-cloud-adapter/cloud/log"
-	logaliyun "github.com/biandoucheng/go-cloud-adapter/cloud/log/aliyun"
+	clog "github.com/eeeeeeeee-ccc/go-adapter/cloud/log"
+	logaliyun "github.com/eeeeeeeee-ccc/go-adapter/cloud/log/aliyun"
 
 	sls "github.com/aliyun/aliyun-log-go-sdk"
 	consumerlib "github.com/aliyun/aliyun-log-go-sdk/consumer"

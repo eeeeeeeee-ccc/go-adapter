@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/biandoucheng/go-cloud-adapter/cloud"
-	"github.com/biandoucheng/go-cloud-adapter/cloud/storage"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud"
+	"github.com/eeeeeeeee-ccc/go-adapter/cloud/storage"
 
 	"github.com/volcengine/ve-tos-golang-sdk/v2/tos"
 	"github.com/volcengine/ve-tos-golang-sdk/v2/tos/enum"
